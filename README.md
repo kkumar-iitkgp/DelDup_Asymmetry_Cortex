@@ -21,10 +21,6 @@ In addition, the gene-sets used in the paper (due to size), along with a version
 
 ## CC-GSBA Workflow
 
-<p align="center">
- <img src="CC-GSBA/CC-GSBA_logo.png" alt="CC-GSBA_logo" width="1000"/>
-</p>
-
 Our methodology for associating copy number variants (CNVs) with cognitive ability leverages gene expression data across cortical regions. The analysis integrates genotypic and phenotypic data from large population cohorts with gene expression data from the Allen Human Brain Atlas (AHBA).
 
 - Gene Assignment: Each gene is mapped to cortical regions where it shows preferential expression (z-score > 0.5). This process is repeated for all genes, resulting in 180 distinct regional gene sets.
