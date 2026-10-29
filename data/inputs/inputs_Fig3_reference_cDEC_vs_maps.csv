@@ -1,0 +1,21 @@
+map_name,source_column,rho_cDEC,pspin_cDEC
+Functional gradient,G1.fMRI,0.294422667366277,0.0224
+T1w/T2w,T1T2ratio,-0.36839408623723,0.0064
+Evolutionary expansion,Evolution.Expansion,0.298101793265224,0.0369
+Cerebral blood flow,CBF,0.191343354218752,0.1639
+Cortical thickness,Cortical.Thickness,0.435124540880891,6e-04
+PC1 gene expression,PC1.AHBA,0.454070504379706,0.001
+PC1 NeuroSynth,PC1.Neurosynth,0.195986997317616,0.2848
+Cerebral blood volume,cbv,-0.147436649279299,0.3887
+Oxygen metabolism,cmr02,-0.29892486393613,0.0194
+Glucose metabolism,cmruglu,-0.272852042758521,0.084
+Developmental expansion,devexp,0.224128316717594,0.0641
+Intersubject functional variability,intersubjvar,0.29820261942241,0.018
+MEG alpha,meg_alpha,-0.240262559544019,0.3936
+MEG beta,meg_beta,-0.332981470621521,0.163
+MEG delta,meg_delta,0.371379775095939,0.0471
+MEG low gamma,meg_gamma1,0.158712717470704,0.5616
+MEG high gamma,meg_gamma2,0.454213607415867,0.0014
+MEG theta,meg_theta,0.108423099478379,0.714
+Allometric scaling NIH,scalingnih,0.0883669249050897,0.3767
+Allometric scaling PNC,scalingpnc,-0.0293445270944577,0.8193

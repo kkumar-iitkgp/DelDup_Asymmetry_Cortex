@@ -1,0 +1,17 @@
+pair_set,cnv_type,input1,input2,rho,pspin,sign_concordance_pct,n_regions,n_sig_both,source
+UKBB_vs_AoU,DEL,Income|UKBB,Income|AoU_ArrayWGS_50kb,0.538439734991756,2e-04,96.6666666666667,180,,rho/pspin identical to ST11; sign concordance new
+UKBB_vs_AoU,DUP,Income|UKBB,Income|AoU_ArrayWGS_50kb,0.441208288943281,2e-04,92.2222222222222,180,,rho/pspin identical to ST11; sign concordance new
+UKBB_vs_AoU,DEL,EA_1|UKBB,EA_advanced|AoU_ArrayWGS_50kb,0.591299418346024,1e-04,88.3333333333333,180,,rho/pspin identical to ST11; sign concordance new
+UKBB_vs_AoU,DUP,EA_1|UKBB,EA_advanced|AoU_ArrayWGS_50kb,0.300151393639449,0.00125,77.7777777777778,180,,rho/pspin identical to ST11; sign concordance new
+UKBB_vs_AoU,DEL,Income|UKBB,Income|AoU_GATKSV_50kb,0.656925963211896,2e-04,98.3333333333333,180,,rho/pspin identical to ST11; sign concordance new
+UKBB_vs_AoU,DUP,Income|UKBB,Income|AoU_GATKSV_50kb,0.555453357613918,1e-04,62.2222222222222,180,,rho/pspin identical to ST11; sign concordance new
+GATKSV_threshold,DEL,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_40kb,0.97777091885552,1e-04,99.4444444444444,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DUP,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_40kb,0.991950368838544,1e-04,93.8888888888889,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DEL,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_30kb,0.951731020504748,1e-04,98.8888888888889,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DUP,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_30kb,0.976320256798049,1e-04,89.4444444444445,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DEL,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_20kb,0.914415053962571,2e-04,98.8888888888889,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DUP,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_20kb,0.970178091916417,1e-04,87.2222222222222,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DEL,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_10kb,0.74290152988261,2e-04,98.3333333333333,180,,new row (same spin rule as ST11)
+GATKSV_threshold,DUP,Income|AoU_GATKSV_50kb,Income|AoU_GATKSV_10kb,0.967373478605307,1e-04,85,180,,new row (same spin rule as ST11)
+UKBB_vs_AoU,DEL,EA_1|UKBB,EA|AoU_ArrayWGS_50kb,0.643134378187878,1e-04,97.2222222222222,180,72,new row v3 13oct2026 (Jane Oct 2026 Array∩WGS EA; same spin rule as ST11)
+UKBB_vs_AoU,DUP,EA_1|UKBB,EA|AoU_ArrayWGS_50kb,0.262748985436306,0.0024,97.2222222222222,180,27,new row v3 13oct2026 (Jane Oct 2026 Array∩WGS EA; same spin rule as ST11)

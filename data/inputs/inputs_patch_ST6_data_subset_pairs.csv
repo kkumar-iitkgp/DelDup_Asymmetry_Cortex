@@ -1,0 +1,5 @@
+cor_pair,gene_set_exp_category_input1,gene_set_exp_input1,gene_set_exp_category_input2,gene_set_exp_input2,cor_input1_vs_input2,cor_95CI_min_input1_vs_input2,cor_95CI_max_input1_vs_input2,pspin_input1_vs_input2
+del-del,data_subset,Replication,data_subset,Discovery,0.846657818656954,0.790411557252799,0.888747480433417,1e-04
+del-del,data_subset,UKBB,data_subset,Other_5cohort,0.372060866076114,0.234059528756172,0.495365626242539,0.00465
+dup-dup,data_subset,Replication,data_subset,Discovery,0.576519851435744,0.460655627131878,0.673064806151716,2e-04
+dup-dup,data_subset,UKBB,data_subset,Other_5cohort,0.233700628620225,0.088549918190906,0.369132348069786,0.01025

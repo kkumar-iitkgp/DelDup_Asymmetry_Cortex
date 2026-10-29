@@ -1,0 +1,39 @@
+"map_group","map_name","cnv_type","rho_Hadj","p_spin_Hadj"
+"Transcriptomic","Gene expression PC1","Del",0.455715535528094,7e-04
+"Microstructure","Cortical thickness","Del",0.312139652421719,0.0122
+"Functional connectivity","Functional variability","Del",-0.0126945499750727,0.9415
+"Functional connectivity","Functional gradient","Del",0.0532745741721092,0.642
+"Functional connectivity","NeuroSynth PC1","Del",0.244081087480085,0.3113
+"Energy metabolism","Glucose metabolism","Del",-0.360810273643562,0.0552
+"Energy metabolism","Oxygen metabolism","Del",-0.268635635472395,0.0313
+"Cortical expansion","Evolutionary expansion","Del",-0.0236788764022525,0.9337
+"Cortical expansion","Developmental expansion","Del",-0.0546250422988857,0.7733
+"Hemodynamics","Cerebral blood flow","Del",0.0240038141385347,0.901
+"Hemodynamics","Cerebral blood volume","Del",-0.215041962877267,0.3376
+"Allometric scaling","Allometric scaling NIH","Del",-0.109650577287085,0.3534
+"Allometric scaling","Allometric scaling PNC","Del",-0.171832395303425,0.2365
+"Electrophysiology","MEG high gamma","Del",0.314588322489632,0.1517
+"Electrophysiology","MEG delta","Del",0.195424791477161,0.4186
+"Electrophysiology","MEG low gamma","Del",-0.153451437115706,0.6313
+"Electrophysiology","MEG theta","Del",-0.179070550445079,0.6094
+"Electrophysiology","MEG alpha","Del",-0.068287598996946,0.8398
+"Electrophysiology","MEG beta","Del",-0.506785633922134,0.0468
+"Transcriptomic","Gene expression PC1","Dup",0.00156498362486266,0.9878
+"Microstructure","Cortical thickness","Dup",-0.135506348411873,0.1343
+"Functional connectivity","Functional variability","Dup",-0.249704520948903,0.0097
+"Functional connectivity","Functional gradient","Dup",-0.109721632128123,0.237
+"Functional connectivity","NeuroSynth PC1","Dup",-0.0150297620824455,0.9042
+"Energy metabolism","Glucose metabolism","Dup",-0.0429111227092406,0.6876
+"Energy metabolism","Oxygen metabolism","Dup",-0.062662979383516,0.4908
+"Cortical expansion","Evolutionary expansion","Dup",-0.308855888806077,0.0011
+"Cortical expansion","Developmental expansion","Dup",-0.236978971168234,0.0107
+"Hemodynamics","Cerebral blood flow","Dup",-0.27174683446606,0.0079
+"Hemodynamics","Cerebral blood volume","Dup",0.0145115024120644,0.8903
+"Allometric scaling","Allometric scaling NIH","Dup",-0.18290561415663,0.0401
+"Allometric scaling","Allometric scaling PNC","Dup",-0.179387595997547,0.0458
+"Electrophysiology","MEG high gamma","Dup",-0.145646006146096,0.1833
+"Electrophysiology","MEG delta","Dup",-0.0787964230523846,0.5056
+"Electrophysiology","MEG low gamma","Dup",0.00246272850029328,0.9822
+"Electrophysiology","MEG theta","Dup",-0.0313894061399651,0.8155
+"Electrophysiology","MEG alpha","Dup",-0.0932404138817373,0.458
+"Electrophysiology","MEG beta","Dup",0.0107946983606743,0.9505

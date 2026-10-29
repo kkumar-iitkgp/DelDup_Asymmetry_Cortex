@@ -1,0 +1,11 @@
+"panel","statistic","value","pspin","n_rot"
+"c","partial rho DEL ~ Energy | H",-0.331389647235,0.0367,9999
+"c","partial rho DUP ~ Energy | H",-0.0449582875538896,0.6441,9999
+"d","partial rho DEL ~ Expansion | H",-0.0482455098654231,0.8276,9999
+"d","partial rho DUP ~ Expansion | H",-0.335789382676126,2e-04,9999
+"text","rho DEL ~ Energy (unadjusted)",-0.421136618810385,0.0048,9999
+"text","rho DUP ~ Energy (unadjusted)",0.0823609783726627,0.4243,9999
+"text","rho DEL ~ Expansion (unadjusted)",0.084360771297799,0.6556,9999
+"text","rho DUP ~ Expansion (unadjusted)",-0.404476949367509,2e-04,9999
+"text","I_H (adjusted for H)",-0.573975232491813,0.0137,9999
+"text","I (unadjusted)",-0.992335317848356,2e-04,9999

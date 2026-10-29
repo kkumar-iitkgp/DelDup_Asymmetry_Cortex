@@ -1,0 +1,4 @@
+"gene_set_exp","LOEUF_category","n_sig_regions_DEL_bonferroni_1080","n_sig_regions_DUP_bonferroni_1080","rho_DEL_DUP_all","pspin_DEL_DUP_all","rho_DEL_DUP_sig_descriptive","n_sig_union","rho_cDEC_H","pspin_cDEC_H","printed_e"
+"genetic_constraint_loeuf_0p0_0p35","LOEUF 0-0.35",56,124,-0.556856693107812,2e-04,-0.658479986197377,161,0.373023858761073,0.0019,"ρ = 0.37*"
+"genetic_constraint_loeuf_0p35_1p0","LOEUF 0.35-1.0",112,70,0.0121156002757287,0.9167,-0.391648032200358,129,0.114935646161919,0.4574,"ρ = 0.11"
+"genetic_constraint_loeuf_1p0_2p0","LOEUF 1.0-2.0",25,8,-0.326687037665772,0.00105,-0.577346041055718,32,0.453020154943054,6e-04,"ρ = 0.45*"

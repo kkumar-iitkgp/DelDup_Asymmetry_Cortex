@@ -1,0 +1,12 @@
+"region_code","region_name","pole","effect_size_DEL","effect_size_DUP","p_DEL","p_DUP","significance_class","label"
+"V1","V1 primary visual cortex","sensorimotor",-0.0893931838365381,-0.0259854311200055,2.29440105974117e-19,0.000110643748005185,"Del-Dup","V1 primary visual cortex"
+"A1","A1 primary auditory cortex","sensorimotor",-0.0239598079446682,-0.0167570991465231,0.078456692796207,0.00952753288447731,"ns",NA
+"S1","S1 primary somatosensory cortex","sensorimotor",-0.0801385143145548,-0.0225523101399498,1.68182040823813e-09,0.000418965764003899,"Del-Dup","S1 primary somatosensory cortex"
+"M1","M1 primary motor cortex","sensorimotor",-0.0538857248023979,-0.02475334322448,1.21404793966464e-05,2.1556927099776e-05,"Del-Dup","M1 primary motor cortex"
+"DLPFC","DLPFC dorsolateral prefrontal cortex","association",6.32402847586965e-05,-0.0302684586480227,0.994875753101083,1.27713116660897e-06,"Dup","DLPFC dorsolateral prefrontal cortex"
+"VLPC","VLPFC ventrolateral prefrontal cortex","association",-0.136682689249498,-0.0197304346553186,3.72190360758738e-13,0.0537460313732683,"Del","VLPFC ventrolateral prefrontal cortex"
+"OFC","OFC orbitofrontal cortex","association",-0.0433751008459062,-0.0268494473409231,0.00146936876026657,4.4629736567129e-05,"Del-Dup","OFC orbitofrontal cortex"
+"ACC","ACC anterior cingulate cortex","intermediate",-0.0131474405688909,-0.015217171499783,0.208933254174928,0.0186035120036986,"ns",NA
+"IPC","IPC posterior inferior parietal cortex","association",-0.0445836528922851,-0.00258088245845481,0.000932177039194523,0.809042719763047,"Del","IPC posterior inferior parietal cortex"
+"ITC","ITC inferior temporal cortex","association",-0.0230189067488724,-0.0246500538128862,0.0130259744283964,6.5803579349568e-05,"Dup","ITC inferior temporal cortex"
+"STC","STC posterior superior temporal cortex","intermediate",-0.103943765065483,-0.0204177190598943,1.31997434141118e-24,0.000435036831478154,"Del-Dup","STC posterior superior temporal cortex"

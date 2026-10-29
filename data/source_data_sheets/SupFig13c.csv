@@ -1,0 +1,31 @@
+"sample","quantity","value","p_spin"
+"Discovery","Del: Energy | H",-0.306987604005276,0.0361
+"Replication","Del: Energy | H",-0.316835780007426,0.0541
+"Sex_Female","Del: Energy | H",-0.340677722687489,0.0371
+"Sex_Male","Del: Energy | H",-0.270517926714808,0.0702
+"Age_lessthan_60","Del: Energy | H",-0.273695849156842,0.0551
+"Age_greaterthan_60","Del: Energy | H",-0.330536339246512,0.0551
+"Ancestry_EUR","Del: Energy | H",-0.32810261008895,0.0403
+"UKBB_FI_center_visit","Del: Energy | H",-0.344979732135205,0.027
+"UKBB","Del: Energy | H",-0.329447570440769,0.0371
+"Discovery","Dup: Expansion | H",-0.328664497195124,3e-04
+"Replication","Dup: Expansion | H",-0.248015700926511,0.0074
+"Sex_Female","Dup: Expansion | H",-0.369564756330038,1e-04
+"Sex_Male","Dup: Expansion | H",-0.233862152716335,0.0095
+"Age_lessthan_60","Dup: Expansion | H",-0.244234917043269,0.0077
+"Age_greaterthan_60","Dup: Expansion | H",-0.32152660854029,0.001
+"Ancestry_EUR","Dup: Expansion | H",-0.337771065592785,2e-04
+"UKBB_FI_center_visit","Dup: Expansion | H",-0.388080646902345,2e-04
+"UKBB","Dup: Expansion | H",-0.356384828692504,2e-04
+"Discovery","Interaction",-0.447030269037868,0.0381
+"Replication","Interaction",-0.614988639097013,0.0109
+"Sex_Female","Interaction",-0.509133233236081,0.0294
+"Sex_Male","Interaction",-0.554547462078796,0.0141
+"Age_lessthan_60","Interaction",-0.473098829365099,0.0304
+"Age_greaterthan_60","Interaction",-0.661727404993382,0.0051
+"Ancestry_EUR","Interaction",-0.525477167490747,0.0229
+"UKBB_FI_center_visit","Interaction",-0.622447659388909,0.0043
+"UKBB","Interaction",-0.586270852799378,0.0111
+"All_data_analysis_Fig2 (dashed line)","Del: Energy | H",-0.331389647235,0.0367
+"All_data_analysis_Fig2 (dashed line)","Dup: Expansion | H",-0.335789382676126,2e-04
+"All_data_analysis_Fig2 (dashed line)","Interaction",-0.573975232491813,0.0137

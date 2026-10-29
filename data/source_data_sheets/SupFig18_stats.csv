@@ -1,0 +1,8 @@
+"panel","pair","n","spearman_rho","gene_universe"
+"a","similarity_H ~ LOEUF",14364,0.0786793409370435,"all protein-coding genes with both scores (pairwise complete); 19,689 genes in the scores file"
+"c","similarity_H ~ pHaplo",13426,-0.0769031132046864,"all protein-coding genes with both scores (pairwise complete); 19,689 genes in the scores file"
+"d","similarity_H ~ pTriplo",13426,-0.0380318514622465,"all protein-coding genes with both scores (pairwise complete); 19,689 genes in the scores file"
+"e","similarity_H ~ missense_Z",14499,-0.0341558511122071,"all protein-coding genes with both scores (pairwise complete); 19,689 genes in the scores file"
+"b","similarity_H | Loeuf1: 0.0-0.35",2765,NA,"median similarity_H = -0.110"
+"b","similarity_H | Loeuf2: 0.35-1.0",6453,NA,"median similarity_H = -0.050"
+"b","similarity_H | Loeuf3: 1.0-2.0",5146,NA,"median similarity_H = -0.020"

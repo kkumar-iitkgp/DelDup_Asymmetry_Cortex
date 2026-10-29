@@ -1,0 +1,7 @@
+"panel","statistic","value","printed","source"
+"a","n_significant_regions_DEL (Bonferroni 0.05/360)",128,"128","Supplementary Table 7 (row All_data_analysis_Fig2)"
+"a","n_significant_regions_DUP (Bonferroni 0.05/360)",112,"112","Supplementary Table 7 (row All_data_analysis_Fig2)"
+"b","rho_DEL_DUP_all (Spearman)",-0.258372171980617,"-0.26","Supplementary Table 7 (row All_data_analysis_Fig2)"
+"b","pspin_DEL_DUP_all (two-sided)",0.00445,"0.004","Supplementary Table 7 (row All_data_analysis_Fig2)"
+"d","rho_cDEC_H (Spearman)",0.36839408623723,"0.37","Supplementary Table 7 (row All_data_analysis_Fig2)"
+"d","pspin_cDEC_H (two-sided)",0.0064,"0.006","Supplementary Table 7 (row All_data_analysis_Fig2)"

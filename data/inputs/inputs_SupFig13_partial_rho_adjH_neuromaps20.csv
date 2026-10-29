@@ -1,0 +1,21 @@
+map_set,map_category,map_name,source_column,rho_del_adjH,pspin_del_adjH,rho_dup_adjH,pspin_dup_adjH
+neuromaps_20,Cortical hierarchy and organization,Functional gradient,G1.fMRI,0.0532745741721092,0.642,-0.109721632128123,0.237
+neuromaps_20,Cortical hierarchy and organization,T1w/T2w,T1T2ratio,,,,
+neuromaps_20,Expansion and scaling,Evolutionary expansion,Evolution.Expansion,-0.0236788764022525,0.9337,-0.308855888806077,0.0011
+neuromaps_20,Metabolism and blood flow,Cerebral blood flow,CBF,0.0240038141385347,0.901,-0.27174683446606,0.0079
+neuromaps_20,Cortical hierarchy and organization,Cortical thickness,Cortical.Thickness,0.312139652421719,0.0122,-0.135506348411873,0.1343
+neuromaps_20,Cortical hierarchy and organization,PC1 gene expression,PC1.AHBA,0.455715535528094,7e-04,0.00156498362486266,0.9878
+neuromaps_20,Cortical hierarchy and organization,PC1 NeuroSynth,PC1.Neurosynth,0.244081087480085,0.3113,-0.0150297620824455,0.9042
+neuromaps_20,Metabolism and blood flow,Cerebral blood volume,cbv,-0.215041962877267,0.3376,0.0145115024120644,0.8903
+neuromaps_20,Metabolism and blood flow,Oxygen metabolism,cmr02,-0.268635635472395,0.0313,-0.062662979383516,0.4908
+neuromaps_20,Metabolism and blood flow,Glucose metabolism,cmruglu,-0.360810273643562,0.0552,-0.0429111227092406,0.6876
+neuromaps_20,Expansion and scaling,Developmental expansion,devexp,-0.0546250422988857,0.7733,-0.236978971168234,0.0107
+neuromaps_20,Cortical hierarchy and organization,Intersubject functional variability,intersubjvar,-0.0126945499750727,0.9415,-0.249704520948903,0.0097
+neuromaps_20,MEG power,MEG alpha,meg_alpha,-0.068287598996946,0.8398,-0.0932404138817373,0.458
+neuromaps_20,MEG power,MEG beta,meg_beta,-0.506785633922134,0.0468,0.0107946983606743,0.9505
+neuromaps_20,MEG power,MEG delta,meg_delta,0.195424791477161,0.4186,-0.0787964230523846,0.5056
+neuromaps_20,MEG power,MEG low gamma,meg_gamma1,-0.153451437115706,0.6313,0.00246272850029328,0.9822
+neuromaps_20,MEG power,MEG high gamma,meg_gamma2,0.314588322489632,0.1517,-0.145646006146096,0.1833
+neuromaps_20,MEG power,MEG theta,meg_theta,-0.179070550445079,0.6094,-0.0313894061399651,0.8155
+neuromaps_20,Expansion and scaling,Allometric scaling NIH,scalingnih,-0.109650577287085,0.3534,-0.18290561415663,0.0401
+neuromaps_20,Expansion and scaling,Allometric scaling PNC,scalingpnc,-0.171832395303425,0.2365,-0.179387595997547,0.0458

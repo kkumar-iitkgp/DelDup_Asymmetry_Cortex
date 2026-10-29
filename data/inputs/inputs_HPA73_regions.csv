@@ -1,0 +1,74 @@
+region_id,region_name,PC1,PC2
+HPA_nTPM_region1,angular gyrus,0.117220221785286,-0.0130557565647967
+HPA_nTPM_region2,"anterior cingulate cortex, supragenual-dorsal",0.117205346804469,0.0226347459476221
+HPA_nTPM_region3,"anterior cingulate cortex, supragenual-ventral",0.117203732696413,0.0222902402403203
+HPA_nTPM_region4,"anterior cingulate gyrus, pregenual-dorsal",0.117161020390992,0.0497011095356715
+HPA_nTPM_region5,"anterior cingulate gyrus, pregenual-ventral",0.117071477261346,0.0974689658526019
+HPA_nTPM_region6,"anterior cingulate gyrus, subgenual",0.117095743628104,0.0618314454574435
+HPA_nTPM_region7,"anterior insular cortex, dorsal",0.117221144001564,-0.0127991413822309
+HPA_nTPM_region8,"anterior insular cortex, ventral",0.117180172006741,-0.0536394821135505
+HPA_nTPM_region9,"area parastriata, inferior",0.117175782157115,0.0113971834096703
+HPA_nTPM_region10,"area parastriata, parietal",0.117214214596246,-0.00676455930581368
+HPA_nTPM_region11,"area parastriata, superior",0.116969187225408,0.11462569432519
+HPA_nTPM_region12,"area parastriata, temporal",0.117215767941393,-0.0173870287125532
+HPA_nTPM_region13,area striata,0.117200872126852,-0.0228620602322073
+HPA_nTPM_region14,dorsolateral prefrontal cortex,0.116741461522004,-0.0733098169460894
+HPA_nTPM_region15,dorsomedial prefrontal cortex,0.116875252707709,-0.0230522438242905
+HPA_nTPM_region16,frontal cortex,0.116863176532578,0.00812150771910224
+HPA_nTPM_region17,frontal eye field,0.117225963408737,-0.0102153620362261
+HPA_nTPM_region18,frontal operculum,0.117193483639475,-0.0624962810542658
+HPA_nTPM_region19,frontomarginal cortex,0.116742399843382,-0.0541801722229535
+HPA_nTPM_region20,frontopolar cortex,0.116637195595395,-0.0425040863563116
+HPA_nTPM_region21,fusiform gyrus,0.117210762389248,-0.0144524687041453
+HPA_nTPM_region22,gyrus rectus,0.116977123097328,-0.0814173460509367
+HPA_nTPM_region23,"inferior frontal gyrus, opercular",0.117189013842492,0.020606353187957
+HPA_nTPM_region24,"inferior frontal gyrus, orbital",0.117027244729848,-0.150469489472735
+HPA_nTPM_region25,"inferior frontal gyrus, triangular",0.117101945983008,0.0752072419854578
+HPA_nTPM_region26,inferior parietal lobule,0.117216669661589,-0.0115647730214153
+HPA_nTPM_region27,inferior temporal gyrus,0.117198569838936,-0.0341195171989676
+HPA_nTPM_region28,intraparietal deep sulcus,0.117206103783045,0.0147057209058902
+HPA_nTPM_region29,lingual gyrus,0.117206605789969,-0.00704601944170659
+HPA_nTPM_region30,middle cingulate cortex,0.117196659903714,0.0280770479605384
+HPA_nTPM_region31,middle frontal gyrus,0.113727430157696,0.707084327211292
+HPA_nTPM_region32,middle temporal gyrus,0.117197794770834,-0.0331081323513214
+HPA_nTPM_region33,occipital cortex,0.117217265057455,-0.0100277089050089
+HPA_nTPM_region34,"orbitofrontal gyrus, anterior",0.117145285633718,0.0220805829513778
+HPA_nTPM_region35,"orbitofrontal gyrus, lateral",0.117095910564432,-0.0954406746321827
+HPA_nTPM_region36,"orbitofrontal gyrus, medial",0.116918857108224,-0.00947137911413341
+HPA_nTPM_region37,"orbitofrontal gyrus, posterior",0.11716032858023,0.0417751907468523
+HPA_nTPM_region38,"paracentral lobule, anterior",0.117212349023798,0.0144149625533675
+HPA_nTPM_region39,"paracentral lobule, posterior",0.117184261854535,0.0457440729868631
+HPA_nTPM_region40,parietal operculum,0.117220160229379,-0.00122830023711857
+HPA_nTPM_region41,parieto-insular cortex,0.117218991722346,0.0274011336341495
+HPA_nTPM_region42,parieto-occipital transitional area,0.117206737564972,0.0212076597666299
+HPA_nTPM_region43,piriform cortex,0.117203831494733,-0.000589664487461639
+HPA_nTPM_region44,postcentral gyrus,0.117155906375887,0.0805488680857809
+HPA_nTPM_region45,"postcentral gyrus, dorsal",0.11722019165333,-0.0202048629800321
+HPA_nTPM_region46,"postcentral gyrus, middle",0.114257199111295,-0.606728580959091
+HPA_nTPM_region47,"postcentral gyrus, ventral",0.117216336119152,-0.0283370900789274
+HPA_nTPM_region48,posterior cingulate cortex,0.117194165491233,0.0413108505884625
+HPA_nTPM_region49,"posterior cingulate cortex, dorsal",0.117182461319114,0.0497339260865601
+HPA_nTPM_region50,"posterior cingulate cortex, ventral",0.117210615371881,0.0130637028624838
+HPA_nTPM_region51,posterior insular cortex,0.11722675108264,0.00616840237990604
+HPA_nTPM_region52,precentral gyrus,0.117190483984427,-0.00645942303671798
+HPA_nTPM_region53,"precentral gyrus, dorsal",0.117218505477443,-0.0216934985857856
+HPA_nTPM_region54,"precentral gyrus, middle",0.117210581603108,-0.0372010525601543
+HPA_nTPM_region55,"precentral gyrus, ventral",0.117219120790766,-0.0204324811004182
+HPA_nTPM_region56,precuneus,0.117191250718879,0.0407268676636293
+HPA_nTPM_region57,"premotor cortex, dorsal",0.117210852062508,-0.0171714598165937
+HPA_nTPM_region58,"premotor cortex, ventral",0.117219211274424,-0.00801439615161792
+HPA_nTPM_region59,retrosplenial cortex,0.117182449363234,0.030184415651447
+HPA_nTPM_region60,subcallosal gyrus,0.116756964632042,0.0483064895776134
+HPA_nTPM_region61,"subcentral gyrus, S2",0.117223225460828,-0.0142490695293253
+HPA_nTPM_region62,superior frontal gyrus,0.11694470312827,0.0256260662166172
+HPA_nTPM_region63,superior parietal lobule,0.117207312501104,0.00521230987206199
+HPA_nTPM_region64,superior temporal gyrus,0.117192962690988,-0.0288894210366748
+HPA_nTPM_region65,supplementary motor cortex,0.117213935525247,0.00472987737018329
+HPA_nTPM_region66,supramarginal gyrus,0.117221362953219,0.00688971023452519
+HPA_nTPM_region67,temporal pole,0.117180450864444,-0.000941557468579065
+HPA_nTPM_region68,"temporo-insular cortex, parainsular gyrus",0.117215044926304,0.000717637389944109
+HPA_nTPM_region69,temporo-occipital transitional zone,0.117166143049765,0.0397189619624697
+HPA_nTPM_region70,"transversal temporal gyrus, anterior",0.117197341941768,-0.0392739232023202
+HPA_nTPM_region71,"transversal temporal gyrus, posterior",0.117228040716381,-0.0130571720299367
+HPA_nTPM_region72,ventrolateral prefrontal cortex,0.116396338687276,-0.0368925979788953
+HPA_nTPM_region73,ventromedial prefrontal cortex,0.116809994308622,-0.0536977304773494
