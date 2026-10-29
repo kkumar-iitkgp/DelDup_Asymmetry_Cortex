@@ -1,0 +1,62 @@
+---
+title: "Fig5"
+output: github_document
+---
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE, fig.path = "Fig5_files/figure-gfm/")
+lines_R <- readLines(file.path(dirname(knitr::current_input(dir = TRUE)), "Fig5.R"))   # code chunks are read from Fig5.R
+idx_chunk <- grep("^## ---- fig[0-9]_[A-Za-z0-9_]+ ----$", lines_R)
+knitr::read_chunk(lines = lines_R, labels = sub("^## ---- (.*) ----$", "\\1", lines_R[idx_chunk]),
+                  from = idx_chunk + 1L, to = c(idx_chunk[-1] - 1L, length(lines_R)))
+knitr::opts_knit$set(root.dir = normalizePath(file.path(dirname(knitr::current_input(dir = TRUE)), "..", "..")))
+```
+
+
+## Fig. 5: Cortical deletion and duplication effects across levels of genetic constraint
+#### -- Figure legend -- ####
+
+a) Distribution of the number of genes deleted or duplicated at least once in our dataset, with respect to their genetic constraint (intolerance to loss of function; LOEUF values). Histograms show the numbers of unique genes observed in deletions and duplications across LOEUF bins, with density curves indicating their corresponding distributions. Dashed lines denote the boundaries used to define the three LOEUF strata (0-0.35, 0.35-1.0 and 1.0-2.0); lower LOEUF values indicate greater intolerance to loss of function. b) Genes stratified into three LOEUF categories: i) highly intolerant (Loeuf1: 0-0.35); ii) intolerant (Loeuf2: 0.35-1.0); and iii) tolerant (Loeuf3: 1.0-2.0). Green bars show the reference number of genes in each LOEUF category, and red and blue bars show the numbers observed in deletions and duplications, respectively. c) Cortical deletion and duplication effect-size maps across the three LOEUF strata. Regions significant after Bonferroni correction across 180 cortical regions, two CNV types and three LOEUF strata (1,080 tests) are outlined in black, and pie charts indicate the number of significant cortical regions. A common effect-size scale is used across strata. d) Relationship between deletion and duplication effect sizes across all 180 cortical regions within each LOEUF stratum. Regions significant for deletions, duplications or both are colored, whereas non-significant regions are shown in light grey. Insets show the cortical distribution of these significance classes using the same colors. Common x- and y-axis scales are used across strata to show changes in effect-size magnitude with genetic constraint. e) Association between the cortical dosage-effect contrast (cDEC) and cortical hierarchy within each LOEUF stratum. Each point represents one cortical region and is colored by cDEC; negative and positive values indicate relative deletion and duplication weighting, respectively. Shaded regions indicate the bottom and top 30% of the cortical hierarchy (54 regions each), corresponding to the sensorimotor and association poles, respectively. Dashed lines indicate linear fits. Spearman’s ρ is shown in each panel; asterisks indicate significant two-sided spin-permutation tests (p<0.05). Spin-permutation tests used 10,000 null rotations. Source data are provided with this paper. Del, deletion; Dup, duplication; cDEC, cortical dosage-effect contrast; LOEUF, loss-of-function observed/expected upper-bound fraction.
+The code below is read from `Fig5.R` (same folder). Run it from the repository root, or knit this file. Statistics are read from the Supplementary Tables (`data/inputs/`); the plotted values are written to `data/source_data_sheets/` (Source Data).
+
+#### Setup: paths and packages ####
+```{r fig5_setup}
+```
+
+#### Functions ####
+```{r fig5_functions}
+```
+
+#### Data: effect sizes (Supplementary Table 4), H, profile statistics (Supplementary Table 7) ####
+```{r fig5_data}
+```
+
+#### Panel a ####
+```{r fig5_panel_a}
+```
+
+#### Panel b ####
+```{r fig5_panel_b}
+```
+
+#### Panels c, d and e (data and plots) ####
+```{r fig5_panels_c_e}
+```
+
+#### Panel c (layout) ####
+```{r fig5_layout_c}
+```
+
+#### Panel d (layout) ####
+```{r fig5_layout_d}
+```
+
+#### Panel e (layout) ####
+```{r fig5_layout_e}
+```
+
+#### Assemble and save ####
+```{r fig5_assemble}
+```
+
+#### Fig. 5 ####
+![Fig. 5](Fig5.png)
