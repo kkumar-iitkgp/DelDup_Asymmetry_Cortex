@@ -1,7 +1,7 @@
-## Project: Mirror-Effect-CNV-Cortex
+## Project: DelDup_Asymmetry_Cortex
 
 ## Project Title 
-Mirror effect of genomic deletions and duplications on cognitive ability across the human cerebral cortex
+Genomic deletion and duplication effects on cognitive ability are asymmetrically distributed along the cortical sensorimotor–association hierarchy
 
 ## Citation
 If you use this project or code in your research, please cite the following: 
