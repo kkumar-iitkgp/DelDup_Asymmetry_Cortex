@@ -15,7 +15,7 @@ If you use this project or code in your research, please cite the following:
 Code for the analysis and figures for the Mirror effect of genomic deletions and duplications across the cortex. The repository is organized into three main components: 
 * CC-GSBA: cerebral-cortex gene-set burden analysis (CC-GSBA) pipeline, with simulated toy phenotype data and run;
 * Figs: R Markdown (.Rmd) files containing the steps and code to generate the main figures and their associated statistics;
-* SupFigs: R Markdown (.Rmd) files containing the steps and code for generating the supplementary figures. 
+* SupFigs: R scripts containing the steps and code for generating the supplementary figures. 
 
 In addition, the gene-sets used in the paper (due to size), along with a version of this code, are hosted on **Zenodo** at: [https://doi.org/10.5281/zenodo.23776818](https://doi.org/10.5281/zenodo.23776818)
 
