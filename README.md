@@ -17,7 +17,7 @@ Code for the analysis and figures for the Mirror effect of genomic deletions and
 * Figs: R Markdown (.Rmd) files containing the steps and code to generate the main figures and their associated statistics;
 * SupFigs: R Markdown (.Rmd) files containing the steps and code for generating the supplementary figures. 
 
-In addition, the gene-sets used in the paper (due to size), along with a version of this code, are hosted on **Zenodo** at: [https://doi.org/10.5281/zenodo.17593039](https://doi.org/10.5281/zenodo.17593039)
+In addition, the gene-sets used in the paper (due to size), along with a version of this code, are hosted on **Zenodo** at: [https://doi.org/10.5281/zenodo.23776818](https://doi.org/10.5281/zenodo.23776818)
 
 ## CC-GSBA Workflow
 
@@ -75,28 +75,29 @@ cd CC_GSBA
 3. Run the Core Pipeline: Open and run the CC-GSBA/core_pipeline.ipynb notebook to see the full workflow demonstrated on the synthetic data.
 
 
-## Figs
-The RMD files to generate figure panels and statistics for the following:
+##  Code and source data for the figures
 
-- Fig. 2: Cortical maps of deletion and duplication effect sizes on cognitive ability.
-- Fig. 3: Deletion and duplication effect size maps align with sensorimotor-association cortical organization hierarchy.
-- Fig. 4: Gene dosage effects on cognitive ability across levels of regional specificity.
-- Fig. 5:  Genetic constraint and gene dosage cortical maps.
+This repository contains the code and the Source Data that reproduce the figures of the manuscript (Nature Genetics, revision 1). We aggregated rare deletions and duplications (copy number variants, CNVs) carried by 258,292 individuals into gene sets defined by relative high expression in each of 180 cortical regions (Glasser parcellation, Allen Human Brain Atlas). We then estimated the effect of each regional gene set on cognitive ability with cortical-gene-set burden analysis (CC-GSBA). The figures map the deletion and duplication effects across the cortex, relate them to the sensorimotor-association hierarchy (H = −T1w/T2w) and to 20 normative cortical maps, and test their robustness across cohorts, phenotypes, gene strata and model specifications.
 
-## SupFigs
-The RMD files to generate supplementary figure panels and statistics for the following:
+- **Zenodo** archive (code, Source Data, gene sets, gene scores, GO enrichment results, CC-GSBA toy example):[https://doi.org/10.5281/zenodo.23776818](https://doi.org/10.5281/zenodo.23776818)
+- Citation: to be added
 
-- Fig. S1. Summary of CNV carriers.
-- Fig. S2. Replication in data subsets. 
-- Fig. S3. Replication in independent gene expression RNA-seq resources.
-- Fig. S4. Replication in alternative methods for defining cortical gene sets from AHBA.
-- Fig. S5. Assigning cortical regions to sensorimotor and association axes.
-- Fig. S6. Characterizing the impact of age, sex, ancestry, and assessment type. 
-- Fig. S7. Correlation between genetic constraint and similarity to cortical gradient. 
-- Fig. S8. Characterizing the impact of tissue-specificity, temporal dynamics of gene expression, and cell types.
-- Fig. S9. Characterizing the impact of temporal gene expression trajectories, haploinsufficiency score, triplosensitivity score, and Missense-Zscore.
-- Fig. S10. Enrichment in gene ontologies across cortical gene sets.
+## Repository layout
 
+| Folder / file | Content |
+|---|---|
+| `Figs/Fig2` … `Figs/Fig5` | Main figures: `FigN.R` (code), `FigN.Rmd` / `FigN.md` (code with legend, knitted), `FigN.png` (300 dpi preview) |
+| `SupFigs/` | One R script per Supplementary Figure; `SupFigs/output/` holds the PNG files (300 dpi previews) and `checks/` (logs of the built-in checks) |
+| `functions/` | Shared style (`00_figure_style.R`), helpers for the Supplementary Figures (`00_supfig_helpers.R`) and the Source Data writer (`fn_write_SourceData_sheet.R`) |
+| `data/inputs/` | Inputs read by the figure scripts: the Supplementary Tables workbook and small region- or gene-level files (see `data/README.md`) |
+| `data/source_data_sheets/` | One CSV per Source Data sheet, written by the figure scripts (the data frame passed to each plot) |
+| `data/SourceData_R1.xlsx` | Source Data workbook: README sheet first, then one sheet per panel group (Figs. 2-5, then Supplementary Figs. 1-23) |
+| `code_GOterms_supplement/GO_enrichment/` | Gene Ontology enrichment (fgsea) per regional gene set and the tables behind Supplementary Tables 14 and 15 (inputs and results on Zenodo) |
+| `session_info.txt` | R session used to produce the figures |
+| `LICENSE` | MIT |
+
+## Figures, scripts and Source Data
+See **README_Figs_SupFigs** for details on scripts and source data for each figure and supplement figure. 
 
 ## 📜 Copyright and Licensing
 
