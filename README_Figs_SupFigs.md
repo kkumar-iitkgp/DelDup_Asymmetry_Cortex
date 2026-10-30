@@ -62,7 +62,7 @@ The scripts that built `data/inputs/` from internal result files, and the script
 
 ## Data availability
 
-No individual-level data are included. All statistics are region-level or gene-level aggregates, and All of Us counts follow the All of Us dissemination policy. Individual-level data are available from the cohorts (UK Biobank, the five other cohorts and All of Us) through their access procedures, as described in the manuscript.
+No individual-level data are included. All statistics are region-level or gene-level aggregates, and All of Us counts follow the All of Us dissemination policy. Individual-level data are available from the cohorts (UK Biobank, the five other cohorts, and All of Us) through their access procedures, as described in the manuscript.
 
 ## Conventions
 
